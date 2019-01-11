@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.Skil-aire.Selection"
+    versionCode = "10"
+    version     = "0.0.1" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Skil-aire Selection Tool</name>
+
+  <description>
+      An App For Air Conditioning Selection
+  </description>
+
+  <author href="http://Skil-aire.com" email="Jeff@tithecorp.com">
+      Jeff Longhi
+  </author>
+
+</widget>
